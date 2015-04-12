@@ -1,11 +1,11 @@
 Summary:	Simple application to control the JACK server
 Name:		qjackctl
-Version:	0.3.12
+Version:	0.3.13
 Release:	1
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://downloads.sourceforge.net/qjackctl/%{name}-%{version}.tar.gz
-# Source0-md5:	441800d633f0b1fb767ba4320f25f638
+# Source0-md5:	f0eac5808f4d1d90b111b8570de4f0f2
 Patch0:		%{name}-desktop.patch
 URL:		http://qjackctl.sourceforge.net
 BuildRequires:	QtDBus-devel
